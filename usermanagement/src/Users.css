@@ -1,0 +1,9 @@
+.users {
+  max-width: 80%;
+  background-color: rgb(230, 223, 223);
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
